@@ -91,8 +91,12 @@ function introAnimations() {
 				<li bind:this={aboutWrapperElem}>
 					<div on:click={() => navigate($aboutAnchor)} in:mobileTransitionSwitcher={{ delay: 300 }}>About</div>
 				</li>
+				<li>
+					<!-- ajouter un ligne ver sun site simple de commande en ligne-->
+					<a href="hhttps://guthib.com/" target="_blank" in:mobileTransitionSwitcher={{ delay: 350 }}>Commander en ligne</a>
+				</li>
 				<li class="mobile">
-					<a href="mailto:stephanie.boulenger@gmail.com" target="_blank" in:mobileTransitionSwitcher={{ delay: 350 }}>Email</a>
+					<a href="mailto:lucien.rondier2@yahoo.com" target="_blank" in:mobileTransitionSwitcher={{ delay: 350 }}>Email</a>
 				</li>
 				<li bind:this={githubElem}>
 				</li>

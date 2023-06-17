@@ -286,7 +286,7 @@ function titleSlide(node) {
 						<div class="roles">
 							<div class="wrapper">
 								<div in:maskSlideIn={{reverse: true}} out:maskSlideOut>
-									<p class="descriptor">Role</p>
+									<p class="descriptor"></p>
 								</div>
 								<ul>
 									{#each data[currentActive].roles as role, index}
