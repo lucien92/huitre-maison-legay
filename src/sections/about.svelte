@@ -102,10 +102,10 @@ function section2IntroAnimations() {
 				<span class="button"><a href="https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser" target="_blank" class="clickable sublink link">Email</a></span>
 			</div>
 			<div bind:this={githubLink}>
-				<span class="button" bind:this={githubLink}><a href="https://www.google.com/maps/place/85+Av.+de+Verdun,+56000+Vannes/@47.6608636,-2.7460113,17z/data=!3m1!4b1!4m6!3m5!1s0x48101e7cde0a86cd:0x6a1cd6d2e513a692!8m2!3d47.6608636!4d-2.7434364!16s%2Fg%2F11c12sy0lt" target="_blank" class="clickable sublink link">Maps</a></span>
+				<span class="button" bind:this={githubLink}><a href="https://www.google.fr/maps/place/vente+Huitres+Jegat/@47.6158076,-2.8350355,17z/data=!3m1!4b1!4m6!3m5!1s0x48101a535dce8eff:0xabd1d3221ee3d719!8m2!3d47.6158076!4d-2.8324606!16s%2Fg%2F1tg_l0ht?entry=ttu" target="_blank" class="clickable sublink link">Maps</a></span>
 			</div>
 			<div bind:this={linkedinLink}>
-				<span class="button" bind:this={linkedinLink}><a href="https://www.linkedin.com/in/st%C3%A9phanie-boulenger-97352993/" target="_blank" class="clickable sublink link">Linkedin</a></span>
+				<span class="button" bind:this={linkedinLink}><a href="https://www.linkedin.com/in/lucien-rondier-6a282a1b7/" target="_blank" class="clickable sublink link">Linkedin</a></span>
 			</div>
 		</div>
 	</div>
