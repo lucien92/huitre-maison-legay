@@ -82,7 +82,7 @@ async function introAnimations() {
     <div class="flex-wrapper">
         <div class="logo-wrapper">
             <div class="inline-flex" bind:this={logoElem}>
-                <img src="assets/imgs/logo.svg" alt="mh logo" class="logo">
+                <img src="assets/imgs/logo.svg" alt=" logo" class="logo">
             </div>
         </div>
 
